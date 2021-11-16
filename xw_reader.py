@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 URL_TEXT = "https://nytcrosswordanswers.org/nyt-crossword-answers-{}-{}-{}/"
 TABLE_CLASS = "nywrap"
 WORDS_OF_INTEREST = ["TEATS", "TEAT", "ATEAT",
-                     "TITS", "TIT", "ATIT",
+                     "TITS", "TIT", "ATIT", "HASATIT",
                      "BOOB", "BOOBS",
                      "DICK", "DICKS", "COCK", "COCKS"]
 
