@@ -1,2 +1,4 @@
 tokens.py
 login.txt
+__pycache__/
+*.py[cod]
